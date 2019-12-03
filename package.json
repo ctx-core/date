@@ -1,6 +1,6 @@
 {
 	"name": "@ctx-core/date",
-	"version": "6.2.3",
+	"version": "6.2.4",
 	"description": "ctx-core date",
 	"main": "lib.js",
 	"module": "lib.js",
