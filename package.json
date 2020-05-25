@@ -2,6 +2,7 @@
 	"name": "@ctx-core/date",
 	"version": "6.2.34",
 	"description": "ctx-core date",
+	"type": "module",
 	"main": "lib.js",
 	"module": "lib.js",
 	"types": "lib.ts",
