@@ -2,9 +2,9 @@
 	"name": "@ctx-core/date",
 	"version": "6.2.46",
 	"description": "ctx-core date",
-	"main": "index.js",
-	"module": "index.js",
-	"types": "index.ts",
+	"main": "./index.js",
+	"module": "./index.js",
+	"types": "./index.ts",
 	"scripts": {
 		"test": "echo \"Error: no test specified\" && exit 1"
 	},
