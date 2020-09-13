@@ -6,7 +6,7 @@
 	"module": "./index.js",
 	"types": "./index.ts",
 	"scripts": {
-		"test": "echo \"Error: no test specified\" && exit 1"
+		"exec": "$@"
 	},
 	"repository": {
 		"type": "git",
@@ -29,5 +29,5 @@
 		"svelte": "^3.25.0",
 		"typescript": "^4.0.2"
 	},
-	"gitHead": "eb8779b11b4d6a92f904d1f6b69fea9be056cad1"
+	"gitHead": "a7bd2c977bdf58d1e16fef7e27222fbcfd12efe4"
 }
