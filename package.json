@@ -1,6 +1,6 @@
 {
 	"name": "@ctx-core/date",
-	"version": "6.2.56",
+	"version": "6.2.57",
 	"description": "ctx-core date",
 	"main": "./index.js",
 	"module": "./index.js",
