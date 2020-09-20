@@ -1,33 +1,33 @@
 {
-	"name": "@ctx-core/date",
-	"version": "7.0.0",
-	"description": "ctx-core date",
-	"keywords": [
-		"ctx-core",
-		"date"
-	],
-	"homepage": "https://github.com/ctx-core/date#readme",
-	"bugs": {
-		"url": "https://github.com/ctx-core/date/issues"
-	},
-	"repository": {
-		"type": "git",
-		"url": "https://github.com/ctx-core/date/issues"
-	},
-	"license": "Apache-2.0",
-	"author": "Brian Takita",
-	"main": "./index.js",
-	"module": "./index.js",
-	"types": "./index.ts",
-	"scripts": {
-		"build": "npm run compile",
-		"exec": "$@"
-	},
-	"devDependencies": {
-		"svelte": "~3.25.1",
-		"typescript": "^4.0.3"
-	},
-	"publishConfig": {
-		"access": "public"
-	}
+  "name": "@ctx-core/date",
+  "version": "7.0.1",
+  "description": "ctx-core date",
+  "keywords": [
+    "ctx-core",
+    "date"
+  ],
+  "homepage": "https://github.com/ctx-core/date#readme",
+  "bugs": {
+    "url": "https://github.com/ctx-core/date/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ctx-core/date/issues"
+  },
+  "license": "Apache-2.0",
+  "author": "Brian Takita",
+  "main": "./index.js",
+  "module": "./index.js",
+  "types": "./index.ts",
+  "scripts": {
+    "build": "npm run compile",
+    "exec": "$@"
+  },
+  "devDependencies": {
+    "svelte": "~3.25.1",
+    "typescript": "^4.0.3"
+  },
+  "publishConfig": {
+    "access": "public"
+  }
 }
