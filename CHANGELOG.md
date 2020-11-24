@@ -1,5 +1,17 @@
 # @ctx-core/date
 
+## 7.0.14
+
+### Patch Changes
+
+- svelte: 3.29.7 -> 3.30.0
+
+## 7.0.13
+
+### Patch Changes
+
+- svelte: 3.29.7 -> 3.30.0
+
 ## 7.0.12
 
 ### Patch Changes
