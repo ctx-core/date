@@ -1,6 +1,6 @@
 {
 	"name": "@ctx-core/date",
-	"version": "7.0.15",
+	"version": "7.0.16",
 	"description": "ctx-core date",
 	"keywords": [
 		"ctx-core",
@@ -24,7 +24,7 @@
 		"exec": "$@"
 	},
 	"devDependencies": {
-		"svelte": "3.30.1",
+		"svelte": "3.31.0",
 		"typescript": "^4.1.2"
 	},
 	"publishConfig": {
