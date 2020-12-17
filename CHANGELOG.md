@@ -1,5 +1,11 @@
 # @ctx-core/date
 
+## 8.0.0
+
+### Major Changes
+
+- \_date**append**local_tz->\_date_append_local_tz,\_M_yyyy**utc->\_utc_M_yyyy,\_m_yy**utc->\_utc_M_yy,\_mm_yyyy**utc->\_utc_mm_yyyy,\_yyyymmdd**utc->\_utc_yyyymmdd,\_yyyymmddhhmmss**utc->\_utc_yyyymmddhhmmss,format**date**prose->format_date_prose,format**date**prose**utc->format_utc_date_prose,a1**month**abbrev->abbrev_month_a1,a1\_\_month,month_a1
+
 ## 7.0.17
 
 ### Patch Changes
