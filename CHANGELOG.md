@@ -1,5 +1,11 @@
 # @ctx-core/date
 
+## 8.0.1
+
+### Patch Changes
+
+- - .rush
+
 ## 8.0.0
 
 ### Major Changes
