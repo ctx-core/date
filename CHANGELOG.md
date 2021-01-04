@@ -1,5 +1,11 @@
 # @ctx-core/date
 
+## 8.0.3
+
+### Patch Changes
+
+- svelte: 3.31.1 -> 3.31.2
+
 ## 8.0.2
 
 ### Patch Changes
