@@ -15,8 +15,6 @@ export * from './_yyyymmddhhmmss';
 export * from './abbrev_month_a1';
 export * from './at_date';
 export * from './day';
-export * from './Date';
-export * from './Date__Local';
 export * from './diff_date';
 export * from './format_date_prose';
 export * from './format_utc_date_prose';

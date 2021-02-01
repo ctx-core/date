@@ -1,6 +1,6 @@
 <script>
-import { _date_append_local_tz } from './lib'
-import Date from './Date.svelte'
+import { _date_append_local_tz } from '../../src'
+import { Date } from '../Date'
 export let date
 </script>
 
