@@ -1,5 +1,11 @@
 # @ctx-core/date
 
+## 9.1.6
+
+### Patch Changes
+
+- version bump
+
 ## 9.1.5
 
 ### Patch Changes
