@@ -1,5 +1,11 @@
 # @ctx-core/date
 
+## 9.1.11
+
+### Patch Changes
+
+- fix: npm publish: https://github.com/npm/cli/issues/2834
+
 ## 9.1.10
 
 ### Patch Changes
