@@ -1,1 +1,1 @@
-export declare function diff_date(diff: any): Date;
+export declare function diff_date(diff: number): Date;

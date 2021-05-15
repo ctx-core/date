@@ -1,1 +1,1 @@
-export declare function pad2(n: any): string;
+export declare function pad2(n: number): string;

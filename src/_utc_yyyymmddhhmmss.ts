@@ -1,6 +1,6 @@
 import { _utc_yyyymmdd } from './_utc_yyyymmdd'
 import { pad2 } from './pad2'
-export function _utc_yyyymmddhhmmss(date?) {
+export function _utc_yyyymmddhhmmss(date?:Date) {
 	date = date || new Date()
 	return _utc_yyyymmdd(date) +
 		pad2(date.getUTCHours()) +

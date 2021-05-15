@@ -1,5 +1,11 @@
 # @ctx-core/date
 
+## 9.2.0
+
+### Minor Changes
+
+- "noImplicitAny": true
+
 ## 9.1.19
 
 ### Patch Changes

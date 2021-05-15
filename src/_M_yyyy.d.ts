@@ -1,1 +1,1 @@
-export declare function _M_yyyy(date?: any): string;
+export declare function _M_yyyy(date?: Date): string;
