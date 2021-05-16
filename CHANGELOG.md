@@ -1,5 +1,11 @@
 # @ctx-core/date
 
+## 9.2.1
+
+### Patch Changes
+
+- fix: target: 2018: nodejs compatability
+
 ## 9.2.0
 
 ### Minor Changes
