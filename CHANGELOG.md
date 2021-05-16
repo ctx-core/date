@@ -1,5 +1,11 @@
 # @ctx-core/date
 
+## 9.2.2
+
+### Patch Changes
+
+- .npmignore: + ~
+
 ## 9.2.1
 
 ### Patch Changes
