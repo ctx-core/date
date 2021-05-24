@@ -5,6 +5,4 @@ export function _utc_yyyymmdd(date?:Date) {
 		pad2(date.getUTCMonth() + 1) +
 		pad2(date.getUTCDate())
 }
-export {
-	_utc_yyyymmdd as _yyyymmdd__utc
-}
+export { _utc_yyyymmdd as _yyyymmdd__utc }
