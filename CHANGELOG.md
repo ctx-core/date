@@ -1,5 +1,11 @@
 # @ctx-core/date
 
+## 9.4.0
+
+### Minor Changes
+
+- fix tsc build directory issues
+
 ## 9.3.1
 
 ### Patch Changes
