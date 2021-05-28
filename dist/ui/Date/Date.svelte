@@ -1,1 +1,1 @@
-/home/brian/work/ctx-core/ctx-core/packages/date/src/ui/Date/Date.svelte
+../../../src/ui/Date/Date.svelte
