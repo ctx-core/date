@@ -1,4 +1,4 @@
-export const month_a1 = [
+export const month_a = [
 	'January',
 	'February',
 	'March',
@@ -13,5 +13,6 @@ export const month_a1 = [
 	'December',
 ]
 export {
-	month_a1 as a1__month
+	month_a as month_a1,
+	month_a as a1__month,
 }

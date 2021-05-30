@@ -1,4 +1,7 @@
-export function _m_yy(date?:Date) {
+export function m_yy_(date?:Date) {
 	date = date || new Date()
 	return `${date.getMonth() + 1}/${date.getFullYear().toString().slice(2)}`
+}
+export {
+	m_yy_ as _m_yy,
 }

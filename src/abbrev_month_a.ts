@@ -1,4 +1,4 @@
-export const abbrev_month_a1 = [
+export const abbrev_month_a = [
 	'Jan',
 	'Feb',
 	'Mar',
@@ -13,5 +13,5 @@ export const abbrev_month_a1 = [
 	'Dec',
 ]
 export {
-	abbrev_month_a1 as a1__month__abbrev
+	abbrev_month_a as a1__month__abbrev
 }

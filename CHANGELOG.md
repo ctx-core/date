@@ -1,5 +1,12 @@
 # @ctx-core/date
 
+## 10.0.0
+
+### Major Changes
+
+- \$ suffix for stores
+- \_ suffix for factory functions
+
 ## 9.4.2
 
 ### Patch Changes
