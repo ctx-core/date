@@ -1,5 +1,11 @@
 # @ctx-core/date
 
+## 11.0.0
+
+### Major Changes
+
+- move from dist to src directory
+
 ## 10.0.4
 
 ### Patch Changes
