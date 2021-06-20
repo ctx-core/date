@@ -1,5 +1,11 @@
 # @ctx-core/date
 
+## 11.0.7
+
+### Patch Changes
+
+- fix: deploying \*.js files
+
 ## 11.0.6
 
 ### Patch Changes
