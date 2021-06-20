@@ -1,5 +1,11 @@
 # @ctx-core/date
 
+## 11.0.6
+
+### Patch Changes
+
+- fix: npm run clean
+
 ## 11.0.5
 
 ### Patch Changes
