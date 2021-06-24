@@ -1,5 +1,11 @@
 # @ctx-core/date
 
+## 11.0.9
+
+### Patch Changes
+
+- tsconfig.json: "lib": ["dom", "ESNext"]
+
 ## 11.0.8
 
 ### Patch Changes
