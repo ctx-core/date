@@ -1,5 +1,11 @@
 # @ctx-core/date
 
+## 12.0.0
+
+### Major Changes
+
+- "type": "module": module npm type
+
 ## 11.0.21
 
 ### Patch Changes
