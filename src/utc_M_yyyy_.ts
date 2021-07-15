@@ -1,5 +1,5 @@
 import { abbrev_month_a } from './abbrev_month_a.js'
-export function utc_M_yyyy_(date?:Date) {
+export function utc_M_yyyy_(date?:Date):string {
 	date = date || new Date()
 	return `${abbrev_month_a[date.getUTCMonth()]} ${date.getUTCFullYear()}`
 }

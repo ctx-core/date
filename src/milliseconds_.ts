@@ -1,4 +1,4 @@
-export function milliseconds_(date = new Date()) {
+export function milliseconds_(date = new Date()):number {
   return date.getTime()
 }
 export {

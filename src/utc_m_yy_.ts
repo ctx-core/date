@@ -1,4 +1,4 @@
-export function utc_m_yy_(date?:Date) {
+export function utc_m_yy_(date?:Date):string {
 	date = date || new Date()
 	return `${date.getUTCMonth() + 1}/${date.getUTCFullYear().toString().slice(2)}`
 }

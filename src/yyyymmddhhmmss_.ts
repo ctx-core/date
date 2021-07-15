@@ -1,6 +1,6 @@
 import { yyyymmdd_ } from './yyyymmdd_.js'
 import { pad2 } from './pad2.js'
-export function yyyymmddhhmmss_(date?:Date) {
+export function yyyymmddhhmmss_(date?:Date):string {
 	date = date || new Date()
 	return yyyymmdd_(date) +
 		pad2(date.getHours()) +
