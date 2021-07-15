@@ -1,5 +1,5 @@
-import { yyyymmdd_ } from './yyyymmdd_'
-import { pad2 } from './pad2'
+import { yyyymmdd_ } from './yyyymmdd_.js'
+import { pad2 } from './pad2.js'
 export function yyyymmddhhmmss_(date?:Date) {
 	date = date || new Date()
 	return yyyymmdd_(date) +

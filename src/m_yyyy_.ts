@@ -1,4 +1,4 @@
-import { abbrev_month_a } from './abbrev_month_a'
+import { abbrev_month_a } from './abbrev_month_a.js'
 export function M_yyyy_(date?:Date) {
 	date = date || new Date()
 	return `${abbrev_month_a[date.getMonth()]} ${date.getFullYear()}`

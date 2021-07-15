@@ -1,4 +1,4 @@
-import { pad2 } from './pad2'
+import { pad2 } from './pad2.js'
 export function utc_yyyymmdd_(date?:Date) {
 	date = date || new Date()
 	return date.getUTCFullYear() +

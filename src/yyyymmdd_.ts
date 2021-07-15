@@ -1,4 +1,4 @@
-import { pad2 } from './pad2'
+import { pad2 } from './pad2.js'
 export function yyyymmdd_(date?:Date) {
 	date = date || new Date()
 	return date.getFullYear() +

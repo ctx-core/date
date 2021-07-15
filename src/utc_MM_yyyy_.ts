@@ -1,5 +1,5 @@
-import { pad2 } from './pad2'
-import { month_a } from './month_a'
+import { pad2 } from './pad2.js'
+import { month_a } from './month_a.js'
 export function utc_MM_yyyy_(date?:Date) {
 	date = date || new Date()
 	return `${month_a[date.getUTCMonth()]} ${date.getUTCFullYear()}`

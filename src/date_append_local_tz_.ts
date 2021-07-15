@@ -1,4 +1,4 @@
-import { toLocalDateString } from './toLocalDateString'
+import { toLocalDateString } from './toLocalDateString.js'
 export function date_append_local_tz_(date_txt: string) {
   return new Date(`${date_txt} (${toLocalDateString()})`)
 }
