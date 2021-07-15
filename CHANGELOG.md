@@ -1,5 +1,11 @@
 # @ctx-core/date
 
+## 12.0.2
+
+### Patch Changes
+
+- fix: "type": "module"
+
 ## 12.0.1
 
 ### Patch Changes
