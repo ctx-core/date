@@ -1,5 +1,11 @@
 # @ctx-core/date
 
+## 12.0.10
+
+### Patch Changes
+
+- fix: cjs: load as a Promise
+
 ## 12.0.9
 
 ### Patch Changes
