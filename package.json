@@ -1,6 +1,6 @@
 {
 	"name": "@ctx-core/date",
-	"version": "12.0.13",
+	"version": "12.0.14",
 	"description": "ctx-core date",
 	"keywords": [
 		"ctx-core",
@@ -22,7 +22,8 @@
 	"types": "./dist/index.d.ts",
 	"exports": {
 		"require": "./dist/index.cjs",
-		"import": "./dist/index.js"
+		"import": "./dist/index.js",
+		"package.json": "./package.json"
 	},
 	"scripts": {
 		"build": "npm run clean && npm run copy-mjs && npm run copy-components && npm run compile",

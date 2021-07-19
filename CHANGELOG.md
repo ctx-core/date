@@ -1,5 +1,11 @@
 # @ctx-core/date
 
+## 12.0.14
+
+### Patch Changes
+
+- exports: + "package.json": "./package.json"
+
 ## 12.0.13
 
 ### Patch Changes
