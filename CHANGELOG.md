@@ -1,5 +1,12 @@
 # @ctx-core/date
 
+## 12.0.18
+
+### Patch Changes
+
+- svelte: 3.40.0 -> 3.40.1
+- update dependencies
+
 ## 12.0.17
 
 ### Patch Changes
