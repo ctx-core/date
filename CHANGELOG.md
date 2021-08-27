@@ -1,5 +1,11 @@
 # @ctx-core/date
 
+## 12.0.41
+
+### Patch Changes
+
+- typescript: ^4.3.5 -> ^4.4.2
+
 ## 12.0.40
 
 ### Patch Changes
