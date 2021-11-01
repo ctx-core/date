@@ -1,6 +1,6 @@
 {
 	"name": "@ctx-core/date",
-	"version": "12.0.63",
+	"version": "12.0.64",
 	"description": "ctx-core date",
 	"keywords": [
 		"ctx-core",
@@ -37,9 +37,9 @@
 		"prepublishOnly": "npm run build"
 	},
 	"devDependencies": {
-		"@ctx-core/ctx-core-package-tools": "workspace:^8.0.76",
-		"svelte": "3.43.1",
-		"typescript": "^4.4.3"
+		"@ctx-core/ctx-core-package-tools": "workspace:^8.0.77",
+		"svelte": "3.44.0",
+		"typescript": "^4.4.4"
 	},
 	"publishConfig": {
 		"access": "public",
