@@ -1,5 +1,11 @@
 # @ctx-core/date
 
+## 12.0.66
+
+### Patch Changes
+
+- fix: date\_: argument type signature
+
 ## 12.0.65
 
 ### Patch Changes
