@@ -1,5 +1,11 @@
 # @ctx-core/date
 
+## 12.0.68
+
+### Patch Changes
+
+- compile using swc
+
 ## 12.0.67
 
 ### Patch Changes
