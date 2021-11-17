@@ -1,3 +1,2 @@
 import 'svelte'
-import Date from './Date.svelte'
-export { Date }
+export * as Date from './Date.svelte'
