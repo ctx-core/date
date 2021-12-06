@@ -1,5 +1,11 @@
 # @ctx-core/date
 
+## 12.0.77
+
+### Patch Changes
+
+- package.json: - "main": explicitly not support cjs
+
 ## 12.0.76
 
 ### Patch Changes
