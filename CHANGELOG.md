@@ -1,5 +1,11 @@
 # @ctx-core/date
 
+## 12.0.76
+
+### Patch Changes
+
+- update dependencies
+
 ## 12.0.75
 
 ### Patch Changes
