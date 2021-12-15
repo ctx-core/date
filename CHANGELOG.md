@@ -1,5 +1,11 @@
 # @ctx-core/date
 
+## 13.0.1
+
+### Patch Changes
+
+- package.json: svelte: ./dist/index.js
+
 ## 13.0.0
 
 ### Major Changes
