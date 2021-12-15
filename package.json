@@ -32,7 +32,7 @@
 		"prepublishOnly": "npm run clean && npm run build"
 	},
 	"devDependencies": {
-		"@ctx-core/ctx-core-package-tools": "workspace:^8.0.86",
+		"@ctx-core/ctx-core-package-tools": "workspace:^8.0.87",
 		"@swc/cli": "^0.1.55",
 		"@swc/core": "^1.2.120",
 		"typescript": "next"
