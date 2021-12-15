@@ -1,5 +1,11 @@
 # @ctx-core/date
 
+## 13.0.4
+
+### Patch Changes
+
+- \*.d.ts export
+
 ## 13.0.3
 
 ### Patch Changes
