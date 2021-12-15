@@ -1,6 +1,6 @@
 {
 	"name": "@ctx-core/date",
-	"version": "13.0.2",
+	"version": "13.0.3",
 	"description": "ctx-core date",
 	"keywords": [
 		"ctx-core",
@@ -32,7 +32,7 @@
 		"prepublishOnly": "npm run clean && npm run build"
 	},
 	"devDependencies": {
-		"@ctx-core/ctx-core-package-tools": "workspace:^8.0.89",
+		"@ctx-core/ctx-core-package-tools": "workspace:^8.0.90",
 		"@swc/cli": "^0.1.55",
 		"@swc/core": "^1.2.120",
 		"rimraf": "^3.0.2",

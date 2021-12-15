@@ -1,5 +1,11 @@
 # @ctx-core/date
 
+## 13.0.3
+
+### Patch Changes
+
+- fix: tsconfig.json: "rootDir": "."
+
 ## 13.0.2
 
 ### Patch Changes
