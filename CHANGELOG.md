@@ -1,5 +1,11 @@
 # @ctx-core/date
 
+## 13.0.6
+
+### Patch Changes
+
+- package.json: "types": "./src/index.ts": better editing experience
+
 ## 13.0.5
 
 ### Patch Changes
