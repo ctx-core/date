@@ -1,5 +1,11 @@
 # @ctx-core/date
 
+## 13.0.9
+
+### Patch Changes
+
+- .js + .d.ts instead of .ts
+
 ## 13.0.8
 
 ### Patch Changes
