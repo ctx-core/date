@@ -1,5 +1,11 @@
 # @ctx-core/date
 
+## 13.0.10
+
+### Patch Changes
+
+- version bump
+
 ## 13.0.9
 
 ### Patch Changes
