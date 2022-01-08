@@ -1,6 +1,6 @@
 {
 	"name": "@ctx-core/date",
-	"version": "13.0.11",
+	"version": "13.0.12",
 	"description": "ctx-core date",
 	"keywords": [
 		"ctx-core",
@@ -44,5 +44,6 @@
 		"access": "public",
 		"cache": "~/.npm"
 	},
-	"svelte": "./lib/index.js"
+	"svelte": "./lib/index.js",
+	"sideEffects": false
 }

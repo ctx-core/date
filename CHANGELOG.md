@@ -1,5 +1,11 @@
 # @ctx-core/date
 
+## 13.0.12
+
+### Patch Changes
+
+- sideEffects = false
+
 ## 13.0.11
 
 ### Patch Changes
