@@ -1,5 +1,11 @@
 # @ctx-core/date
 
+## 13.0.13
+
+### Patch Changes
+
+- package.json: exports: update
+
 ## 13.0.12
 
 ### Patch Changes
