@@ -1,5 +1,21 @@
 # @ctx-core/date
 
+## 13.1.0
+
+### Minor Changes
+
+- minute_ms aliased by minute
+
+  - minute_sec
+
+  hour_ms aliased by hour
+
+  - hour_sec
+
+  day_ms aliased by day
+
+  - day_sec
+
 ## 13.0.13
 
 ### Patch Changes
