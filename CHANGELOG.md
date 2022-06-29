@@ -1,5 +1,11 @@
 # @ctx-core/date
 
+## 13.2.0
+
+### Minor Changes
+
+- ms* aliased by milliseconds*
+
 ## 13.1.0
 
 ### Minor Changes
