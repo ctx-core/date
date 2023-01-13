@@ -1,5 +1,11 @@
 # @ctx-core/date
 
+## 13.2.1
+
+### Patch Changes
+
+- rimraf: ^3.0.2 -> ^4.0.1
+
 ## 13.2.0
 
 ### Minor Changes
