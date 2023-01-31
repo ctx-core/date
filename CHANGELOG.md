@@ -1,5 +1,11 @@
 # @ctx-core/date
 
+## 13.2.3
+
+### Patch Changes
+
+- tsconfig.json: - importsNotUsedAsValues
+
 ## 13.2.2
 
 ### Patch Changes
