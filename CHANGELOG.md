@@ -1,5 +1,11 @@
 # @ctx-core/date
 
+## 13.2.4
+
+### Patch Changes
+
+- @swc/core: ^1.3.31 -> ^1.3.32
+
 ## 13.2.3
 
 ### Patch Changes
