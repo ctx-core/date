@@ -1,7 +1,7 @@
 import { pad2 } from '../pad2/index.js'
 import { yyyymmdd_ } from '../yyyymmdd_/index.js'
 /**
- * @param date{Date}
+ * @param {Date}[date]
  * @returns {string}
  */
 export function yyyymmddhhmmss_(date) {

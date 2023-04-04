@@ -1,5 +1,5 @@
 /**
- * @param date{Date}
+ * @param {Date}[date]
  * @returns {string}
  */
 export function utc_m_yy_(date) {

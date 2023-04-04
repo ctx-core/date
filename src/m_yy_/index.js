@@ -1,5 +1,5 @@
 /**
- * @param date{Date}
+ * @param {Date}[date]
  * @returns {string}
  */
 export function m_yy_(date) {

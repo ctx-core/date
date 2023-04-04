@@ -1,5 +1,5 @@
 /**
- * @param time{number}
+ * @param {number}time
  * @returns {Date}
  */
 export function at_date(time) {

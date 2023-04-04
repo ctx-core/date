@@ -1,5 +1,5 @@
 /**
- * @param diff{number}
+ * @param {number}diff
  * @returns {Date}
  */
 export function diff_date(diff) {

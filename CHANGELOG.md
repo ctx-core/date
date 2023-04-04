@@ -1,5 +1,11 @@
 # @ctx-core/date
 
+## 13.3.2
+
+### Patch Changes
+
+- jsdoc: fix: params definitions
+
 ## 13.3.1
 
 ### Patch Changes

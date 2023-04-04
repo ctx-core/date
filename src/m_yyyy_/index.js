@@ -1,6 +1,6 @@
 import { abbrev_month_a } from '../abbrev_month_a/index.js'
 /**
- * @param date{Date}
+ * @param {Date}[date]
  * @returns {string}
  */
 export function M_yyyy_(date) {

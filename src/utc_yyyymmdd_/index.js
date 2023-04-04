@@ -1,6 +1,6 @@
 import { pad2 } from '../pad2/index.js'
 /**
- * @param date{Date}
+ * @param {Date}[date]
  * @returns {string}
  */
 export function utc_yyyymmdd_(date) {

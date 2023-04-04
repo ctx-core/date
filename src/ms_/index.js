@@ -1,3 +1,8 @@
+/**
+ * @param {Date}[date]
+ * @returns {number}
+ * @private
+ */
 export function ms_(date = new Date()) {
 	return date.getTime()
 }

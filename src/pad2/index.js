@@ -1,5 +1,5 @@
 /**
- * @param n{number}
+ * @param {number}n
  * @returns {string}
  */
 export function pad2(n) {
