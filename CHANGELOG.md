@@ -1,5 +1,13 @@
 # @ctx-core/date
 
+## 13.4.3
+
+### Patch Changes
+
+- package.json: files: + \*.js
+- Updated dependencies
+  - ctx-core@2.2.2
+
 ## 13.4.2
 
 ### Patch Changes
