@@ -1,5 +1,15 @@
 # @ctx-core/date
 
+## 13.4.4
+
+### Patch Changes
+
+- package.json: files:
+
+      *.d.ts
+      *.js
+      *.json
+
 ## 13.4.3
 
 ### Patch Changes
