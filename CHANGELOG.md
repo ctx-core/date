@@ -1,5 +1,11 @@
 # @ctx-core/date
 
+## 13.4.12
+
+### Patch Changes
+
+- ctx-core: ^3.2.2 -> ^3.3.0
+
 ## 13.4.11
 
 ### Patch Changes
