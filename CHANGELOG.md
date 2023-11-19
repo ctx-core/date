@@ -1,5 +1,17 @@
 # @ctx-core/date
 
+## 13.4.17
+
+### Patch Changes
+
+- Updated dependencies
+- Updated dependencies
+- Updated dependencies
+- Updated dependencies
+- Updated dependencies
+- Updated dependencies
+  - ctx-core@4.0.0
+
 ## 13.4.16
 
 ### Patch Changes
